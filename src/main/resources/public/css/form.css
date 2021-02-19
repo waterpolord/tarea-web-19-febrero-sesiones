@@ -1,0 +1,43 @@
+header{
+    height: 55px;
+    width: 100%;
+    background: linear-gradient(90deg, rgb(19, 163, 67) 0%, rgb(127, 212, 141) 100%);
+    background-size: cover;
+}
+
+#title{
+    font-style:italic;
+    font-weight:bold;
+    font-size:3em;
+    margin-top:10px;
+    margin-left: 30%;
+    font-family:'Helvetica','Verdana','Monaco',sans-serif;
+    display: block !important;
+    margin-left: 8px;
+    cursor: pointer;
+    margin-top: auto;
+}
+
+.card{
+    background-color: #e5dede;
+    margin: 3rem;
+    padding: 9rem;
+    text-align: center;
+    display: block !important;
+    border-radius: 25px;
+    font-size: xx-large;
+}
+
+#btn{
+    border-radius: 25px;
+    text-align: center;
+    width: 20%;
+    background: green;
+}
+
+.input{
+    border-radius: 25px;
+    text-align: center;
+    width: 20%;
+    background: green;
+}
